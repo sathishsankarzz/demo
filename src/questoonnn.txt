@@ -1,0 +1,1 @@
+//write a java program to disply use entered number is perfect number(sum of its divisros or factor its divisor ) or not 

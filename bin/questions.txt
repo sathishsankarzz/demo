@@ -1,0 +1,4 @@
+// 20-07-19  write a java program to caluculate the sum of first n natural numbers 
+// write a java program to calulate the sum of even  numbers and odd numbers betwento range 
+//write a jva progra to count and dispLY HOW MANY DIGITS IN THE NUMBERS 
+//
